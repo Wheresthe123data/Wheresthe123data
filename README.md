@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wheresthe123data also Jonathan Jones
 - 👀 I’m interested in puzzles ,sports and video games
 - 🌱 I’m currently learning git control
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different aspects of data analytics projects 
 - 📫 How to reach me 
 Email:Jonathan.lost.it794@gmail.com
 LinkedIn:https://www.linkedin.com/in/jonathan-jones-a35904158
